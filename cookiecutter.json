@@ -1,0 +1,8 @@
+{
+  "project_name": "my-package",
+  "github_username_or_orgname": "Akadib",
+  "github_repo_name": "my-package",
+  "conda_pypi_package_dist_name": "my-package",
+  "package_dir_name": "my_package",
+  "contributors": "Adib Kabir"
+}
